@@ -7,16 +7,16 @@ Cada usuário tem acesso apenas às suas próprias tarefas.
 
 ## 🚀 Funcionalidades
 
-✅ Cadastro e login de usuários  
-✅ Autenticação com **token Sanctum**  
-✅ CRUD completo de tarefas:
+* Cadastro e login de usuários  
+* Autenticação com **token Sanctum**  
+* CRUD completo de tarefas:
 - Criar (`POST /tasks`)
 - Listar (`GET /tasks`)
 - Visualizar uma (`GET /tasks/{id}`)
 - Atualizar (`PUT /tasks/{id}`)
 - Excluir (`DELETE /tasks/{id}`)
-✅ Cada usuário só pode acessar suas próprias tarefas  
-✅ Campos da tarefa: `title`, `description`, `completed` (boolean)
+* Cada usuário só pode acessar suas próprias tarefas  
+* Campos da tarefa: `title`, `description`, `completed` (boolean)
 
 ---
 
