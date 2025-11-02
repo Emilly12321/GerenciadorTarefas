@@ -1,6 +1,6 @@
 <?php
 
-namespace Database\Factories;
+namespace Backend\Database\Factories;
 
 use App\Models\Task;
 use App\Models\User;
