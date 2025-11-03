@@ -35,8 +35,7 @@ Cada usuário tem acesso apenas às suas próprias tarefas.
 
 ### 1️⃣ Clonar o projeto
 ```bash
-git clone https://github.com/seuusuario/testando.git
-cd testando/backend
+git clone https://github.com/emilly12321/gerenciadortarefas
 ```
 
 ### 2️⃣ Instalar dependências
